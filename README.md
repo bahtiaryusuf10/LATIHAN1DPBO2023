@@ -27,8 +27,7 @@ Selain itu, dalam class `Student` ini juga terdapat 4-6 method yang digunakan un
 ## Alur Program
 *Pada umumnya, semua program yang dibuat memiliki alur yang sama, hanya saja pada source code Php tidak tersedia menu input dari pengguna (data diinput secara hardcode).*
 
-Pertama program akan membersihkan terlebih dahulu terminal, lalu akan menampilkan menu CRUD yang dapat dipilih oleh pengguna. Pengguna akan diminta untuk memasukan perintah pilihannya 
-dan jika program sudah selesai menjalankan perintah maka proses (inputan untuk pemilihan menu) akan dijalankan berulang sampai pengguna menginput perintah untuk mengakhiiri program. 
+Pertama program akan membersihkan terlebih dahulu terminal, lalu akan menampilkan menu CRUD yang dapat dipilih oleh pengguna. Pengguna akan diminta untuk memasukan perintah pilihannya dan jika program sudah selesai menjalankan perintah maka proses (inputan untuk pemilihan menu) akan dijalankan berulang sampai pengguna menginput perintah untuk mengakhiiri program. 
 Kelima perintahnya yaitu:
 * masukkan (0) untuk keluar dari program program.
 Jika pengguna menjalankan perintah ini maka program akan langsung keluar.
@@ -44,9 +43,13 @@ Jika pengguna menjalankan perintah ini maka program akan meng-print semua data m
 ## Dokumentasi
 Pada program Python
 
-![Screenshot - Python]
+![InsertData - Python](https://user-images.githubusercontent.com/100776170/219057043-8bf262c2-bfdc-49ca-aa56-af1183c8b1f3.png)
+![UpdateData - Python](https://user-images.githubusercontent.com/100776170/219057135-57f2388c-25b6-40ba-a41a-1faaf7ca5d13.png)
+![ListAfterUpdate - Python](https://user-images.githubusercontent.com/100776170/219057163-b4e2a973-48b4-43fe-91ad-82c318baa013.png)
+![DeleteData - Python](https://user-images.githubusercontent.com/100776170/219057178-412e112a-46d0-4561-bd78-3bdc215abf39.png)
+![ListAfterDelete - Python](https://user-images.githubusercontent.com/100776170/219057205-15f22d56-a15a-4095-aa93-bb712833b4b7.png)
 
-Pada program PHP
+Pada program Php
 
-![Screenshot - PHP]()
-![Screenshot (252)]()
+![Screenshot1 - PHP](https://user-images.githubusercontent.com/100776170/219058534-6097d13c-6195-44d2-9b6b-7935528b7d83.png)
+![Screenshot2 - PHP](https://user-images.githubusercontent.com/100776170/219058636-e38f3f85-9aa3-4fea-be0a-59d989e9fcad.png)
