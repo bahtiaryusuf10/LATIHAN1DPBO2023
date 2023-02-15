@@ -8,7 +8,7 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, d
 Program didesain dalam satu class:
 * *Student*
 
-Pada class `Student` terdapat empat atribut :
+Pada class `Student` terdapat 4 atribut :
 * *name* -> berisikan Nama Mahasiswa dengan tipe data `string`
 * *idNumber* -> berisikan NIM Mahasiswa dengan tipe data `integer`
 * *major* -> berisikan Program Studi Mahasiswa dengan tipe data `string`
